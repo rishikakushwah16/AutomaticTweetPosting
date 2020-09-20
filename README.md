@@ -3,7 +3,7 @@ In today's world, everyone is using social media and twitter is one of the most 
 
 Automatic tweet posting is one of the most interesting things as it is easy to implement and can save your time if you don't want to reply to the same type of tweets, it is also easy to implement as you only have to get your hands on the python package tweepy and Twitter APIs.
 
-First, make sure you have a Twitter account with a verified phone number and Email I'd. Now search for a Twitter developer account on any web browser. Click on "Apply for a developer Account", while doing this you should be logged in to your Twitter account. Once you have created your twitter developer account, create a new project and see if you have access to keys of not. Make your that access token and secret should have read and write permissions.
+First, make sure you have a Twitter account with a verified phone number and Email Id. Now search for a Twitter developer account on any web browser. Click on "Apply for a developer Account", while doing this you should be logged in to your Twitter account. Once you have created your twitter developer account, create a new project and see if you have access to keys of not. Make your that access token and secret should have read and write permissions.
 
 The easiest way to install tweepy is using:   pip install tweepy or install directly from the GitHub repository:   pip install -U git+https://github.com/tweepy/tweepy.git@2efe385fc69385b57733f747ee62e6be12a1338b
 
